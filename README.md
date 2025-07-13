@@ -41,6 +41,12 @@ pip install -r requirements.txt
 ```
 
 ### Running the Application
+Run a separate terminal and start the FastAPI server on port 8000
+
+```bash
+uvicorn backend.api:app --reload --port 8000
+```
+Then open a new terminal and start the Streamlit app
 ```bash
 streamlit run app.py
 ```

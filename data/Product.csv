@@ -1,0 +1,501 @@
+product_id,product_name,product_category,product_price,product_rating
+P0001,Power Bank 649,Electronics,5725.49,3.7
+P0002,Potato Chips 430,Snacks,2505.6,4.4
+P0003,Phone Case 725,Mobile Accessories,11701.26,4.8
+P0004,Sanitizer 567,Health,7808.6,4.9
+P0005,Toor Dal 961,Groceries,11139.49,4.0
+P0006,Plastic Chair 663,Furniture,2737.16,3.7
+P0007,Dog Food 990,Pet Supplies,14508.2,4.0
+P0008,Dog Food 295,Pet Supplies,10483.32,3.3
+P0009,Exam Guide 183,Books,10334.73,4.7
+P0010,Moong Dal 779,Pulses,10979.59,3.2
+P0011,Organic Quinoa 818,Organic,1605.29,4.6
+P0012,Potato Chips 117,Snacks,6126.34,3.7
+P0013,Flip Flops 320,Footwear,2546.29,5.0
+P0014,Cricket Bat 713,Sports,11169.41,4.4
+P0015,Men's T-Shirt 663,Apparel,6848.75,4.9
+P0016,Flower Pot 600,Gardening,10078.75,3.3
+P0017,Curd 535,Dairy,9164.43,4.4
+P0018,Screen Guard 348,Mobile Accessories,11717.61,3.1
+P0019,Pet Shampoo 299,Pet Supplies,6537.07,4.8
+P0020,Ball Pen 499,Stationery,3297.57,4.3
+P0021,Organic Jaggery 690,Organic,3836.24,3.8
+P0022,Analog Watch 299,Watches,871.71,4.1
+P0023,Paracetamol 184,Pharmacy,4491.51,4.7
+P0024,Exam Guide 765,Books,2045.06,4.2
+P0025,Lipstick 234,Beauty,9198.37,4.1
+P0026,Men's T-Shirt 519,Apparel,13532.29,4.4
+P0027,Namkeen Mix 706,Snacks,10146.5,3.4
+P0028,Remote Car 586,Toys,2799.21,3.6
+P0029,Garden Shears 792,Gardening,6273.55,4.0
+P0030,Laptop Bag 272,Bags,12018.08,4.5
+P0031,Toothbrush 646,Personal Care,14040.95,4.6
+P0032,Frozen Paratha 346,Frozen Foods,7000.3,3.8
+P0033,Green Tea 683,Beverages,4101.75,4.6
+P0034,Yoga Mat 416,Sports,14971.68,3.2
+P0035,Travel Duffel 544,Bags,6894.02,3.7
+P0036,Floor Cleaner 863,Cleaning,6407.94,3.9
+P0037,Laptop Bag 475,Bags,5048.5,3.1
+P0038,Antiseptic Cream 707,Pharmacy,4484.0,3.7
+P0039,Screen Guard 454,Mobile Accessories,6045.62,4.2
+P0040,Butter 334,Dairy,11032.57,3.4
+P0041,Stapler 944,Stationery,6858.99,3.1
+P0042,English Novel 661,Books,6162.83,3.4
+P0043,Skipping Rope 752,Sports,11271.31,4.0
+P0044,Skipping Rope 804,Sports,14210.97,4.5
+P0045,Children's Storybook 385,Books,9151.62,4.2
+P0046,Moong Dal 135,Pulses,9043.39,3.1
+P0047,Non-stick Pan 673,Home & Kitchen,2021.27,3.8
+P0048,Plant Fertilizer 762,Gardening,5631.37,3.8
+P0049,Headphones 103,Electronics,4205.58,4.6
+P0050,Car Air Freshener 364,Automotive,13812.44,3.7
+P0051,Laptop Bag 772,Bags,13208.41,4.5
+P0052,Rajma 930,Pulses,723.8,4.5
+P0053,Dog Food 888,Pet Supplies,4333.16,4.3
+P0054,Cat Litter 757,Pet Supplies,11429.62,3.7
+P0055,Baby Lotion 519,Baby Products,14099.05,5.0
+P0056,Floor Cleaner 104,Cleaning,7039.84,4.0
+P0057,Digital Watch 970,Watches,10602.78,3.2
+P0058,Flower Pot 336,Gardening,8703.54,4.3
+P0059,Paracetamol 176,Pharmacy,12077.7,3.4
+P0060,Football 199,Sports,12804.61,3.0
+P0061,Paneer 550,Dairy,5044.35,3.3
+P0062,Bluetooth Speaker 129,Electronics,10962.48,4.9
+P0063,Flower Pot 133,Gardening,6794.59,3.7
+P0064,Screen Guard 703,Mobile Accessories,535.99,4.0
+P0065,Deodorant 488,Personal Care,13444.55,4.6
+P0066,Butter 924,Dairy,13704.28,4.2
+P0067,Football 416,Sports,8682.01,3.7
+P0068,Moisturizer 140,Beauty,7430.73,4.5
+P0069,Phone Case 198,Mobile Accessories,13143.03,4.1
+P0070,Organic Jaggery 336,Organic,6085.54,3.6
+P0071,Non-stick Pan 852,Home & Kitchen,521.06,3.1
+P0072,Green Tea 677,Beverages,5356.62,3.4
+P0073,Salt 894,Groceries,9353.12,3.6
+P0074,Gold Plated Necklace 325,Jewelry,11484.07,3.4
+P0075,Kids Shorts 129,Apparel,3143.46,4.6
+P0076,Stapler 601,Stationery,1106.93,4.3
+P0077,Bike Helmet 581,Automotive,4779.76,4.8
+P0078,Garden Shears 904,Gardening,8364.29,4.9
+P0079,Pressure Cooker 272,Home & Kitchen,8345.19,3.0
+P0080,Chana Dal 975,Pulses,9214.86,4.8
+P0081,Exam Guide 517,Books,10978.45,4.8
+P0082,Plastic Chair 759,Furniture,819.88,4.6
+P0083,Mixer Grinder 582,Home & Kitchen,3312.04,3.7
+P0084,Diapers 629,Baby Products,1396.69,3.4
+P0085,Formal Shoes 319,Footwear,6243.93,3.4
+P0086,Car Shampoo 160,Automotive,1719.74,4.9
+P0087,Green Tea 954,Beverages,6262.56,4.6
+P0088,Toothbrush 775,Personal Care,3606.92,3.5
+P0089,Red Chilli Powder 278,Spices,12413.34,4.0
+P0090,Smartphone 860,Electronics,115.23,3.3
+P0091,Paracetamol 747,Pharmacy,2887.99,4.8
+P0092,Curd 402,Dairy,13304.21,4.9
+P0093,Wooden Table 699,Furniture,14556.25,3.0
+P0094,Garden Shears 181,Gardening,4594.64,3.2
+P0095,Kids Shorts 877,Apparel,13435.38,3.7
+P0096,Formal Shoes 349,Footwear,3532.37,3.9
+P0097,Silver Earrings 476,Jewelry,1310.45,4.9
+P0098,LED TV 807,Electronics,4982.35,4.2
+P0099,Headphones 659,Electronics,5098.54,4.9
+P0100,Plant Fertilizer 461,Gardening,8291.55,4.4
+P0101,Bluetooth Speaker 549,Electronics,12908.02,4.4
+P0102,Cough Syrup 644,Pharmacy,3779.37,3.7
+P0103,Silver Earrings 159,Jewelry,13437.97,3.4
+P0104,Sofa Set 745,Furniture,9389.22,4.1
+P0105,Remote Car 878,Toys,4229.8,4.2
+P0106,Cotton Saree 926,Apparel,1022.07,4.2
+P0107,Football 198,Sports,11354.24,4.0
+P0108,Lipstick 713,Beauty,13150.58,3.8
+P0109,Wooden Table 194,Furniture,3025.77,3.7
+P0110,Bluetooth Speaker 261,Electronics,6041.27,3.8
+P0111,Gold Plated Necklace 212,Jewelry,8612.86,4.6
+P0112,Bike Helmet 485,Automotive,10764.68,4.8
+P0113,Remote Car 129,Toys,6709.6,4.0
+P0114,Smart Watch 345,Watches,10279.85,5.0
+P0115,Mango Juice 935,Beverages,4533.22,4.6
+P0116,Bike Helmet 246,Automotive,5376.97,5.0
+P0117,Mixer Grinder 653,Home & Kitchen,2763.95,4.4
+P0118,Cat Litter 968,Pet Supplies,14203.5,3.3
+P0119,Mango Juice 209,Beverages,4412.12,4.1
+P0120,Cat Litter 754,Pet Supplies,9523.54,4.1
+P0121,Fruit Cake 702,Bakery,4740.48,3.4
+P0122,Namkeen Mix 409,Snacks,10281.33,4.0
+P0123,Bike Helmet 745,Automotive,13971.95,4.0
+P0124,Toothbrush 736,Personal Care,2682.47,4.8
+P0125,Doll Set 202,Toys,1418.55,3.5
+P0126,Frozen Peas 237,Frozen Foods,6387.79,3.3
+P0127,Football 739,Sports,5854.77,4.5
+P0128,Instant Coffee 356,Beverages,6112.07,4.0
+P0129,Frozen Peas 186,Frozen Foods,168.75,3.9
+P0130,Skipping Rope 482,Sports,11072.75,4.4
+P0131,Paracetamol 118,Pharmacy,86.33,4.2
+P0132,Red Chilli Powder 863,Spices,9888.24,4.8
+P0133,Remote Car 547,Toys,2944.46,4.8
+P0134,English Novel 742,Books,3085.31,5.0
+P0135,Dishwash Liquid 873,Cleaning,2758.82,4.3
+P0136,Organic Jaggery 546,Organic,1444.4,3.3
+P0137,Bangle Set 839,Jewelry,2440.07,3.9
+P0138,Bangle Set 615,Jewelry,2516.34,4.2
+P0139,Smartphone 336,Electronics,12137.91,4.4
+P0140,Laptop Bag 712,Bags,7126.46,3.5
+P0141,Bangle Set 636,Jewelry,9706.69,3.8
+P0142,English Novel 369,Books,14473.49,3.8
+P0143,Turmeric 750,Spices,13769.36,3.2
+P0144,Sofa Set 919,Furniture,10544.23,4.9
+P0145,Chocolate Bar 256,Snacks,9119.86,3.2
+P0146,Mixer Grinder 322,Home & Kitchen,9514.52,3.1
+P0147,Instant Coffee 741,Beverages,10173.42,3.2
+P0148,Potato Chips 835,Snacks,683.2,4.2
+P0149,Mustard Oil 883,Groceries,8704.94,3.3
+P0150,Exam Guide 266,Books,14899.95,4.2
+P0151,Lipstick 175,Beauty,1685.22,4.7
+P0152,Bluetooth Speaker 623,Electronics,7295.09,4.3
+P0153,Skipping Rope 718,Sports,5391.67,3.7
+P0154,Dog Food 370,Pet Supplies,2154.07,3.9
+P0155,Vitamin C Tablets 889,Health,14835.94,3.7
+P0156,Marker Pen 640,Stationery,6266.98,4.7
+P0157,Smart Watch 613,Watches,4915.78,4.1
+P0158,Running Shoes 440,Footwear,11065.39,4.9
+P0159,Denim Jeans 530,Apparel,3153.77,3.8
+P0160,Digital Watch 894,Watches,6753.94,3.9
+P0161,Deodorant 644,Personal Care,9658.44,3.1
+P0162,Paneer 795,Dairy,7444.12,4.1
+P0163,Cat Litter 318,Pet Supplies,13947.53,3.8
+P0164,Fruit Cake 430,Bakery,2373.77,3.2
+P0165,Toothbrush 802,Personal Care,12249.13,4.6
+P0166,Baby Lotion 166,Baby Products,11692.8,3.1
+P0167,Car Air Freshener 477,Automotive,3412.6,4.2
+P0168,Sofa Set 206,Furniture,3129.61,4.3
+P0169,Running Shoes 964,Footwear,641.36,4.5
+P0170,Brown Bread 145,Bakery,1412.47,3.1
+P0171,Toor Dal 561,Groceries,701.02,4.6
+P0172,Running Shoes 126,Footwear,1923.39,5.0
+P0173,Floor Cleaner 451,Cleaning,13031.67,3.9
+P0174,Stapler 238,Stationery,9327.15,3.4
+P0175,Red Chilli Powder 843,Spices,4615.21,4.8
+P0176,Women's Kurti 752,Apparel,625.75,3.6
+P0177,Dog Food 777,Pet Supplies,9722.51,3.3
+P0178,Feeding Bottle 801,Baby Products,11638.43,4.7
+P0179,First Aid Kit 215,Health,11390.43,3.2
+P0180,Cotton Saree 617,Apparel,10175.34,4.8
+P0181,Chana Dal 433,Pulses,2229.86,4.0
+P0182,Pressure Cooker 559,Home & Kitchen,1855.16,3.9
+P0183,Cotton Saree 253,Apparel,2645.88,4.8
+P0184,Pressure Cooker 179,Home & Kitchen,7664.8,3.6
+P0185,Organic Honey 172,Organic,14511.63,3.8
+P0186,Toothpaste 113,Personal Care,7791.28,4.7
+P0187,Brown Bread 632,Bakery,2355.19,4.8
+P0188,Football 278,Sports,11765.14,3.3
+P0189,Formal Shoes 162,Footwear,8149.85,4.7
+P0190,Chicken Nuggets 730,Frozen Foods,4788.22,4.5
+P0191,USB Cable 169,Mobile Accessories,8399.28,3.3
+P0192,Namkeen Mix 960,Snacks,4756.71,3.4
+P0193,Moisturizer 685,Beauty,1991.3,5.0
+P0194,Dishwash Liquid 138,Cleaning,4115.31,4.7
+P0195,Stapler 893,Stationery,9974.9,4.4
+P0196,Dishwash Liquid 696,Cleaning,8473.16,4.6
+P0197,Organic Honey 715,Organic,1188.35,3.1
+P0198,Turmeric 252,Spices,9674.43,4.4
+P0199,Red Chilli Powder 458,Spices,2148.86,4.1
+P0200,Digital Watch 912,Watches,12456.74,4.3
+P0201,Wooden Table 556,Furniture,8513.29,3.2
+P0202,Pet Shampoo 101,Pet Supplies,2823.99,4.6
+P0203,Bangle Set 924,Jewelry,5504.9,4.1
+P0204,Kajal 542,Beauty,1190.56,4.2
+P0205,Feeding Bottle 567,Baby Products,7086.13,3.7
+P0206,Dog Food 992,Pet Supplies,11525.66,4.5
+P0207,Lipstick 770,Beauty,4695.05,4.1
+P0208,Car Air Freshener 534,Automotive,7791.5,4.2
+P0209,English Novel 210,Books,5967.26,4.8
+P0210,Digital Watch 413,Watches,8543.67,4.6
+P0211,USB Cable 742,Mobile Accessories,3399.74,3.2
+P0212,Non-stick Pan 531,Home & Kitchen,10357.71,4.2
+P0213,Moong Dal 219,Pulses,13169.83,4.5
+P0214,LED TV 189,Electronics,5247.75,4.2
+P0215,Kids Shorts 814,Apparel,4752.26,3.3
+P0216,Green Tea 449,Beverages,10221.08,4.4
+P0217,Brown Bread 347,Bakery,8917.55,3.5
+P0218,Red Chilli Powder 765,Spices,10206.47,4.1
+P0219,Doll Set 631,Toys,9126.27,4.2
+P0220,Green Tea 201,Beverages,5548.98,4.1
+P0221,Smart Watch 949,Watches,8025.29,4.0
+P0222,USB Cable 664,Mobile Accessories,3874.49,4.3
+P0223,Non-stick Pan 815,Home & Kitchen,8932.08,4.0
+P0224,Sofa Set 287,Furniture,2834.1,3.4
+P0225,Bangle Set 101,Jewelry,14644.94,3.4
+P0226,Bike Helmet 208,Automotive,5192.45,4.9
+P0227,Brown Bread 742,Bakery,8950.25,3.6
+P0228,Pet Shampoo 837,Pet Supplies,2172.55,3.8
+P0229,Dishwash Liquid 268,Cleaning,2626.38,4.8
+P0230,Analog Watch 140,Watches,7217.76,3.9
+P0231,Fruit Cake 691,Bakery,11565.86,4.8
+P0232,Toothbrush 264,Personal Care,13347.29,4.8
+P0233,English Novel 643,Books,1060.81,3.1
+P0234,Football 849,Sports,11781.07,3.3
+P0235,Curd 846,Dairy,13739.85,3.9
+P0236,Headphones 762,Electronics,3054.06,4.7
+P0237,Mango Juice 180,Beverages,1892.05,4.7
+P0238,Bangle Set 358,Jewelry,348.06,3.1
+P0239,Pet Shampoo 919,Pet Supplies,12782.34,3.3
+P0240,Car Shampoo 596,Automotive,2595.96,3.4
+P0241,Cricket Bat 796,Sports,13025.4,4.1
+P0242,Organic Jaggery 471,Organic,12190.46,3.2
+P0243,Toothpaste 416,Personal Care,4023.94,3.7
+P0244,Paracetamol 116,Pharmacy,5113.39,3.3
+P0245,Dishwash Liquid 185,Cleaning,7284.88,4.1
+P0246,Paneer 157,Dairy,10077.62,4.6
+P0247,Screen Guard 471,Mobile Accessories,8014.39,4.2
+P0248,Stapler 623,Stationery,8883.12,3.4
+P0249,Floor Cleaner 971,Cleaning,4941.25,4.3
+P0250,Notebook 377,Stationery,1723.05,3.3
+P0251,Rajma 508,Pulses,7772.32,3.1
+P0252,Kids Shorts 236,Apparel,7177.11,4.2
+P0253,USB Cable 708,Mobile Accessories,6907.86,4.6
+P0254,Exam Guide 592,Books,12666.16,4.9
+P0255,Face Wash 297,Beauty,3247.95,3.4
+P0256,USB Cable 277,Mobile Accessories,8285.04,4.2
+P0257,Mixer Grinder 108,Home & Kitchen,14223.46,3.7
+P0258,Car Shampoo 828,Automotive,1626.81,4.8
+P0259,Pain Relief Balm 868,Health,14982.96,3.3
+P0260,Green Tea 604,Beverages,3395.31,4.6
+P0261,Organic Quinoa 742,Organic,7712.65,3.6
+P0262,Exam Guide 234,Books,7576.6,4.2
+P0263,Bike Helmet 967,Automotive,13068.7,3.2
+P0264,Organic Quinoa 865,Organic,4210.96,3.7
+P0265,Chicken Nuggets 608,Frozen Foods,4041.68,3.4
+P0266,Notebook 247,Stationery,10588.42,4.0
+P0267,Yoga Mat 733,Sports,3886.73,4.1
+P0268,Basmati Rice 431,Groceries,8245.81,4.8
+P0269,Rajma 763,Pulses,9928.48,4.3
+P0270,Cough Syrup 353,Pharmacy,9907.79,3.9
+P0271,Mustard Oil 195,Groceries,3464.1,4.2
+P0272,Brown Bread 204,Bakery,14598.78,3.7
+P0273,Digital Watch 570,Watches,4121.93,3.2
+P0274,Car Shampoo 506,Automotive,12921.07,3.6
+P0275,Mango Juice 162,Beverages,5838.02,3.5
+P0276,Notebook 451,Stationery,13726.4,3.6
+P0277,Mango Juice 271,Beverages,7914.09,3.6
+P0278,Women's Kurti 378,Apparel,11241.55,3.7
+P0279,Skipping Rope 835,Sports,8259.5,4.0
+P0280,Turmeric 582,Spices,5870.87,3.6
+P0281,Toothpaste 576,Personal Care,14874.44,4.2
+P0282,Dishwash Liquid 636,Cleaning,1053.09,4.4
+P0283,Chocolate Bar 933,Snacks,4252.39,3.4
+P0284,Analog Watch 855,Watches,12910.76,4.1
+P0285,Deodorant 185,Personal Care,11341.36,4.6
+P0286,Car Shampoo 402,Automotive,5770.2,3.4
+P0287,Plastic Chair 146,Furniture,348.04,4.4
+P0288,Organic Quinoa 754,Organic,4890.85,3.8
+P0289,Vitamin C Tablets 108,Health,13910.59,3.0
+P0290,English Novel 916,Books,13064.04,4.8
+P0291,Travel Duffel 261,Bags,10998.68,3.6
+P0292,Floor Cleaner 735,Cleaning,3399.96,4.8
+P0293,Flip Flops 445,Footwear,3820.49,4.5
+P0294,Frozen Paratha 403,Frozen Foods,11618.39,3.8
+P0295,Car Air Freshener 298,Automotive,6541.11,3.6
+P0296,Phone Case 369,Mobile Accessories,13793.93,3.3
+P0297,Phone Case 567,Mobile Accessories,9645.64,3.7
+P0298,Cough Syrup 134,Pharmacy,4504.13,3.8
+P0299,Car Air Freshener 369,Automotive,8902.45,3.7
+P0300,Moong Dal 782,Pulses,12429.22,3.7
+P0301,Sofa Set 961,Furniture,11477.41,4.3
+P0302,Children's Storybook 778,Books,522.85,4.5
+P0303,Car Air Freshener 444,Automotive,3491.05,4.8
+P0304,Plant Fertilizer 252,Gardening,11516.06,3.9
+P0305,Remote Car 632,Toys,9574.42,4.3
+P0306,Baby Lotion 520,Baby Products,14299.35,3.6
+P0307,Ball Pen 746,Stationery,9314.66,4.1
+P0308,Remote Car 271,Toys,12170.99,4.9
+P0309,Dishwash Liquid 708,Cleaning,8713.42,3.6
+P0310,Sanitizer 341,Health,3662.44,3.4
+P0311,Turmeric 405,Spices,8980.79,3.3
+P0312,Butter 690,Dairy,5211.51,3.4
+P0313,Red Chilli Powder 647,Spices,1368.53,4.1
+P0314,Smart Watch 943,Watches,1696.53,4.8
+P0315,Football 114,Sports,12970.82,3.2
+P0316,Toothbrush 125,Personal Care,5647.23,3.8
+P0317,Instant Coffee 505,Beverages,3888.07,4.9
+P0318,Bike Helmet 890,Automotive,2457.85,4.6
+P0319,Shampoo 815,Beauty,4308.74,3.4
+P0320,Rajma 873,Pulses,14943.74,3.3
+P0321,Men's T-Shirt 367,Apparel,11515.15,3.3
+P0322,Stapler 668,Stationery,12908.29,4.5
+P0323,Bluetooth Speaker 811,Electronics,5402.23,3.0
+P0324,Cough Syrup 806,Pharmacy,194.07,3.9
+P0325,Mixer Grinder 383,Home & Kitchen,13176.21,4.4
+P0326,Cookies 890,Bakery,13913.67,4.3
+P0327,Green Tea 757,Beverages,6405.61,3.1
+P0328,Curd 730,Dairy,6716.97,4.8
+P0329,Phone Case 331,Mobile Accessories,70.19,4.7
+P0330,Digital Watch 791,Watches,14830.13,4.2
+P0331,Sandals 164,Footwear,12955.11,4.9
+P0332,Screen Guard 414,Mobile Accessories,10690.36,4.7
+P0333,Potato Chips 178,Snacks,8722.8,3.4
+P0334,Formal Shoes 492,Footwear,3336.78,3.5
+P0335,Silver Earrings 319,Jewelry,8101.6,3.6
+P0336,Exam Guide 202,Books,9934.86,4.8
+P0337,Cotton Saree 571,Apparel,4415.61,3.8
+P0338,Cat Litter 743,Pet Supplies,13673.78,4.7
+P0339,Antiseptic Cream 690,Pharmacy,6473.3,4.9
+P0340,Namkeen Mix 566,Snacks,9502.58,3.5
+P0341,Yoga Mat 955,Sports,3297.39,4.0
+P0342,Remote Car 611,Toys,291.81,4.1
+P0343,Dishwash Liquid 881,Cleaning,11892.3,3.5
+P0344,Paneer 769,Dairy,14450.19,3.3
+P0345,Chocolate Bar 465,Snacks,8132.91,3.6
+P0346,Organic Honey 175,Organic,1249.99,4.3
+P0347,Garam Masala 807,Spices,4165.48,3.6
+P0348,Toothpaste 619,Personal Care,7519.33,4.9
+P0349,Salt 620,Groceries,9226.72,4.5
+P0350,Running Shoes 199,Footwear,8300.48,4.1
+P0351,Salt 526,Groceries,1094.16,3.1
+P0352,Denim Jeans 912,Apparel,10730.04,4.5
+P0353,Moong Dal 876,Pulses,13964.13,3.8
+P0354,Sofa Set 604,Furniture,13170.26,4.9
+P0355,Namkeen Mix 461,Snacks,11197.22,3.3
+P0356,Smart Watch 539,Watches,14078.27,4.6
+P0357,Atta Wheat Flour 459,Groceries,10026.98,4.8
+P0358,Skipping Rope 638,Sports,5200.38,4.4
+P0359,Cat Litter 905,Pet Supplies,6938.38,4.9
+P0360,Red Chilli Powder 650,Spices,6466.91,3.7
+P0361,Bangle Set 824,Jewelry,1510.08,4.2
+P0362,Baby Lotion 164,Baby Products,8586.65,3.2
+P0363,Kids Shorts 539,Apparel,697.48,3.6
+P0364,Garden Shears 836,Gardening,14330.31,3.8
+P0365,Sofa Set 468,Furniture,2769.29,4.0
+P0366,Brown Bread 501,Bakery,13119.7,4.5
+P0367,Paracetamol 649,Pharmacy,12273.27,3.2
+P0368,Skipping Rope 714,Sports,4546.22,4.5
+P0369,Bike Helmet 743,Automotive,7569.07,4.4
+P0370,Headphones 189,Electronics,8893.5,4.5
+P0371,Baby Lotion 970,Baby Products,11188.5,4.1
+P0372,Wooden Table 166,Furniture,14072.82,4.7
+P0373,Deodorant 226,Personal Care,12681.52,3.2
+P0374,Kajal 572,Beauty,2136.7,4.2
+P0375,Gold Plated Necklace 902,Jewelry,920.0,4.8
+P0376,Feeding Bottle 242,Baby Products,6099.48,3.9
+P0377,Potato Chips 930,Snacks,13333.51,3.9
+P0378,Power Bank 914,Electronics,7361.62,3.5
+P0379,Feeding Bottle 806,Baby Products,6139.71,3.3
+P0380,Sugar 445,Groceries,8784.37,3.4
+P0381,Power Bank 368,Electronics,3042.7,4.2
+P0382,Flower Pot 720,Gardening,2406.46,3.2
+P0383,Red Chilli Powder 499,Spices,11629.83,4.9
+P0384,Green Tea 359,Beverages,14304.73,4.1
+P0385,Cotton Saree 278,Apparel,2147.95,3.6
+P0386,Mango Juice 167,Beverages,8551.37,4.5
+P0387,Green Tea 946,Beverages,9081.12,3.3
+P0388,Potato Chips 747,Snacks,3505.56,4.6
+P0389,Laptop Bag 825,Bags,2379.72,3.1
+P0390,Paracetamol 383,Pharmacy,7829.72,3.5
+P0391,Formal Shoes 980,Footwear,1165.02,3.1
+P0392,Ball Pen 206,Stationery,3930.49,3.7
+P0393,Cough Syrup 744,Pharmacy,8300.63,4.9
+P0394,Toothpaste 520,Personal Care,703.87,4.6
+P0395,Antiseptic Cream 962,Pharmacy,13370.98,3.1
+P0396,Wooden Table 225,Furniture,1889.85,4.6
+P0397,Fruit Cake 627,Bakery,5788.04,3.0
+P0398,Red Chilli Powder 254,Spices,12696.45,4.3
+P0399,Car Shampoo 357,Automotive,8492.3,4.0
+P0400,Instant Coffee 801,Beverages,3021.82,3.7
+P0401,Headphones 112,Electronics,14404.54,4.0
+P0402,Sofa Set 888,Furniture,3186.4,4.0
+P0403,Plastic Chair 959,Furniture,2154.81,3.4
+P0404,Notebook 878,Stationery,6701.37,4.9
+P0405,Salt 780,Groceries,6604.98,4.8
+P0406,Toothpaste 719,Personal Care,873.42,4.8
+P0407,Kajal 245,Beauty,8941.94,4.9
+P0408,Power Bank 669,Electronics,7986.5,4.4
+P0409,Headphones 905,Electronics,13532.78,4.4
+P0410,Ball Pen 358,Stationery,1662.77,3.6
+P0411,Football 222,Sports,6786.19,3.6
+P0412,Organic Quinoa 312,Organic,11574.67,3.0
+P0413,Brown Bread 873,Bakery,1530.01,4.1
+P0414,Pet Shampoo 541,Pet Supplies,13861.25,4.3
+P0415,Moong Dal 291,Pulses,280.6,3.2
+P0416,Namkeen Mix 284,Snacks,11392.23,3.1
+P0417,Chocolate Bar 291,Snacks,13795.82,4.1
+P0418,Moong Dal 389,Pulses,5395.66,3.7
+P0419,Paracetamol 331,Pharmacy,9979.31,3.4
+P0420,Diapers 296,Baby Products,8269.77,4.9
+P0421,Organic Jaggery 505,Organic,12391.38,3.7
+P0422,Cricket Bat 359,Sports,5123.81,3.5
+P0423,Toothbrush 255,Personal Care,10079.24,3.4
+P0424,Garam Masala 339,Spices,8053.48,4.3
+P0425,Fruit Cake 276,Bakery,14923.05,3.7
+P0426,Sanitizer 542,Health,3339.87,3.6
+P0427,Frozen Peas 167,Frozen Foods,4043.59,3.9
+P0428,Puzzle Game 386,Toys,1209.42,3.0
+P0429,Sofa Set 692,Furniture,2663.81,3.1
+P0430,Kajal 404,Beauty,6235.24,4.9
+P0431,Pressure Cooker 871,Home & Kitchen,13551.01,4.2
+P0432,Digital Watch 446,Watches,10971.42,3.9
+P0433,Cookies 682,Bakery,7405.38,3.6
+P0434,Green Tea 508,Beverages,4079.68,3.1
+P0435,Doll Set 389,Toys,11194.78,3.3
+P0436,Pressure Cooker 349,Home & Kitchen,11941.38,3.2
+P0437,Chocolate Bar 327,Snacks,14840.82,4.9
+P0438,Dinner Set 754,Home & Kitchen,1463.55,3.2
+P0439,Laptop Bag 246,Bags,10553.35,3.6
+P0440,Paneer 426,Dairy,7231.47,4.6
+P0441,Remote Car 127,Toys,256.14,3.0
+P0442,Instant Coffee 219,Beverages,4252.48,3.8
+P0443,Fruit Cake 495,Bakery,9995.51,4.4
+P0444,Stapler 921,Stationery,10454.34,4.9
+P0445,Chana Dal 937,Pulses,3375.98,3.9
+P0446,Mustard Oil 321,Groceries,10372.02,3.0
+P0447,Organic Quinoa 372,Organic,4644.63,3.1
+P0448,Deodorant 589,Personal Care,13642.33,4.4
+P0449,Dinner Set 473,Home & Kitchen,10350.31,3.7
+P0450,Garden Shears 282,Gardening,4487.21,4.6
+P0451,Puzzle Game 612,Toys,3969.42,4.1
+P0452,Organic Jaggery 794,Organic,6222.98,3.9
+P0453,Gold Plated Necklace 535,Jewelry,11214.23,4.1
+P0454,Toilet Brush 262,Cleaning,687.53,3.2
+P0455,Headphones 389,Electronics,10036.87,3.4
+P0456,Chicken Nuggets 804,Frozen Foods,4939.77,4.2
+P0457,Car Shampoo 141,Automotive,7671.38,4.2
+P0458,Car Air Freshener 974,Automotive,10014.79,3.1
+P0459,Football 158,Sports,7027.89,4.6
+P0460,Skipping Rope 551,Sports,10887.03,3.7
+P0461,Atta Wheat Flour 245,Groceries,5371.69,3.7
+P0462,Silver Earrings 822,Jewelry,12773.87,3.6
+P0463,Wooden Table 281,Furniture,12305.23,4.3
+P0464,Red Chilli Powder 931,Spices,9862.52,4.4
+P0465,Moisturizer 761,Beauty,1324.35,4.7
+P0466,Garam Masala 892,Spices,8827.11,3.7
+P0467,Organic Quinoa 880,Organic,3173.05,3.7
+P0468,Travel Duffel 353,Bags,1034.82,4.5
+P0469,Garden Shears 159,Gardening,12230.04,4.9
+P0470,Instant Coffee 909,Beverages,10498.29,3.3
+P0471,Toothpaste 939,Personal Care,6316.51,4.8
+P0472,Toilet Brush 478,Cleaning,1145.22,3.6
+P0473,Baby Lotion 151,Baby Products,8516.66,4.6
+P0474,Pain Relief Balm 329,Health,12979.15,4.1
+P0475,Dishwash Liquid 742,Cleaning,10863.92,4.7
+P0476,Dishwash Liquid 405,Cleaning,8794.3,3.9
+P0477,Silver Earrings 667,Jewelry,4222.43,3.2
+P0478,Antiseptic Cream 233,Pharmacy,11145.09,4.0
+P0479,Mustard Oil 652,Groceries,7784.76,4.1
+P0480,Basmati Rice 716,Groceries,5345.93,4.6
+P0481,Phone Case 221,Mobile Accessories,7865.42,4.5
+P0482,Potato Chips 333,Snacks,10313.05,4.1
+P0483,Floor Cleaner 571,Cleaning,7915.79,4.1
+P0484,Organic Quinoa 693,Organic,4540.08,4.0
+P0485,Pain Relief Balm 436,Health,7303.5,4.7
+P0486,Mango Juice 699,Beverages,7418.81,4.1
+P0487,Deodorant 101,Personal Care,9732.01,3.4
+P0488,Laptop Bag 858,Bags,7548.51,3.2
+P0489,Diapers 755,Baby Products,5955.82,4.7
+P0490,Building Blocks 257,Toys,12664.36,3.8
+P0491,Cotton Saree 603,Apparel,1931.02,4.2
+P0492,Toothbrush 221,Personal Care,13664.97,4.6
+P0493,Flip Flops 387,Footwear,93.08,4.8
+P0494,Antiseptic Cream 569,Pharmacy,13151.43,4.7
+P0495,Building Blocks 841,Toys,3856.71,4.1
+P0496,Cat Litter 942,Pet Supplies,2284.97,3.0
+P0497,Organic Quinoa 882,Organic,9159.35,3.3
+P0498,Sofa Set 829,Furniture,10790.7,4.9
+P0499,Kajal 134,Beauty,12368.49,3.1
+P0500,Toilet Brush 739,Cleaning,2838.3,3.5

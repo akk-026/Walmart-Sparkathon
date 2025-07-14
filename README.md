@@ -48,7 +48,7 @@ uvicorn backend.api:app --reload --port 8000
 ```
 Then open a new terminal and start the Streamlit app
 ```bash
-streamlit run app.py
+streamlit run walmart_portal.py
 ```
 
 The application will be available at `http://localhost:8501`

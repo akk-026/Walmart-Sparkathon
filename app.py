@@ -228,7 +228,7 @@ def show_tag_based_search(engine, user_location):
     ordered = []
     for cat, grp in df.groupby("product_category", sort=False):
         ids = grp["product_id"].tolist()
-        sorted_ids = rank_products_by_relevance(ids, user_location)
+        sorted_ids = rank_products_by_relevance(ids, st.session_state.user_id)
         sorted_grp = grp.set_index("product_id").loc[sorted_ids].reset_index()
         ordered.append(sorted_grp)
     final_df = pd.concat(ordered, ignore_index=True)
